@@ -3,12 +3,12 @@ typography_spectrum: 0.8844857
 color:
   saturation: 0.5379426
   lightness: 0.5008432
-  brandStrength: 0.4957841
-  rhythmicContrast: 0.257167
+  brandStrength: 0.4907251
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#FFFFFF'
+    - '#1F1E0F'
+    - '#E1E99A'
+    - '#6E6E2F'
+    - '#BDCF38'
+  rhythmicContrast: 0.257167
 name: Life LackaDaisiCal
