@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Life LackaDaisiCal]]></title>
         <description><![CDATA[Life LackaDaisiCal]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/life-lackadaisical/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jan 2016 20:37:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Jan 2016 14:41:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/life-lackadaisical/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rowan Denim.....after the hot wash and dryer treatment...]]></title>
+            <description><![CDATA[<article><h1>Rowan Denim.....after the hot wash and dryer treatment...</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/08ff67b4-c5b8-4618-af73-86fe983f2ae6.png"></article>]]></description>
+            <link>https://thegrid.ai/life-lackadaisical/rowan-denimafter-the-hot-wash-and-dryer-treatment/index.html</link>
+            <guid isPermaLink="false">4fd971b7-ebc0-4e2a-8673-532d1c599209</guid>
+            <pubDate>Tue, 26 Jan 2016 14:41:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Magazine 59! Two gorgeous stories - Coastal and Kyoto.....which do you prefer?]]></title>
             <description><![CDATA[<article><h1>Magazine 59! Two gorgeous stories - Coastal and Kyoto.....which do you prefer?</h1><p>Magazine 59 is here and there are two stories for the Spring/Summer 2016 collection, 'Coastal' and 'Kyoto'. Coastal is a collection of wearable designs for both men and women, whereas Kyoto is an elegant collection of womenswear, inspired by all things Japanese.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5fe0184396e0f3623019f5ebabadc7eac67ac52f.jpg"></article>]]></description>
-            <link>undefinedmagazine-59-two-gorgeous-stories-coastal-and-kyotowh/index.html</link>
+            <link>https://thegrid.ai/life-lackadaisical/magazine-59-two-gorgeous-stories-coastal-and-kyotowh/index.html</link>
             <guid isPermaLink="false">98f34c5c-3f5b-438a-9bc4-059d389f3bdf</guid>
             <pubDate>Sun, 24 Jan 2016 20:37:01 GMT</pubDate>
         </item>
