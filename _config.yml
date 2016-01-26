@@ -1,14 +1,26 @@
-layout_spectrum: 0.8364249
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.8844857
 color:
   saturation: 0.5379426
-  lightness: 0.5008432
   brandStrength: 0.4907251
+  rhythmicContrast: 0.257167
   brandColors:
     - '#FFFFFF'
     - '#1F1E0F'
     - '#E1E99A'
     - '#6E6E2F'
     - '#BDCF38'
-  rhythmicContrast: 0.257167
+  lightness: 0.5008432
+layout_spectrum: 0
 name: Life LackaDaisiCal
