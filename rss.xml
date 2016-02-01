@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Life LackaDaisiCal]]></title>
+        <description><![CDATA[Life LackaDaisiCal]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 01 Feb 2016 12:11:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New Year stash resolutions...]]></title>
+            <description><![CDATA[<article><h1>New Year stash resolutions...</h1><p>I've wanted to share my D'Arcy for a while now....but taking photos is problematic at the best of times...trying to get myself together, the hubby in photographer mode, the right light and the planets aligned. Can't be too tired or too rushed...or it just doesn't work.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/38bd319e31f53634344724f4a50b2eaef2b68146.jpg"></article>]]></description>
+            <link>undefinednew-year-stash-resolutions/index.html</link>
+            <guid isPermaLink="false">a418ae44-4053-4d07-a6b1-e173df3d24a7</guid>
+            <pubDate>Mon, 01 Feb 2016 12:09:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
